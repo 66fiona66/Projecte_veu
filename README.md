@@ -1,10 +1,10 @@
 # Projecte Veu - Aplicació de Control per Veu
 
-Aplicació d'escriptori desenvolupada amb Vue.js 3 i Electron que permet controlar la interfície mitjançant comandes de veu en català. [1](#0-0) 
+Aplicació d'escriptori desenvolupada amb Vue.js 3 i Electron que permet controlar la interfície mitjançant comandes de veu en català.
 
 ## 🎯 Propòsit
 
-El projecte **act3vue** és una aplicació d'escriptori multiplataforma que combina tecnologies web modernes amb un contenedor Electron per oferir una experiència d'usuari amb control per veu. La funcionalitat principal és el component `VoiceCommander` que processa comandes vocals en català com "saluda", "ajuda", "Tema" i "Reset". [2](#0-1) 
+El projecte **act3vue** és una aplicació d'escriptori multiplataforma que combina tecnologies web modernes amb un contenedor Electron per oferir una experiència d'usuari amb control per veu. La funcionalitat principal és el component `VoiceCommander` que processa comandes vocals en català com "saluda", "ajuda", "Tema" i "Reset". 
 
 ## 🛠️ Tecnologia
 
