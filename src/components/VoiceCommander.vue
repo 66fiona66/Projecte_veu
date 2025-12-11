@@ -29,12 +29,12 @@ watch(transcript, (newText) => {
     statusColor.value = "info";
   } 
 
-  else if (command.includes('Tema')){
+  else if (command.includes('tema')){
     uiMessage.value = "Canviar el tema.";
     statusColor.value = "info";
     theme.toggle();
   } 
-   else if (command.includes('Esborra')){
+   else if (command.includes('esborra')){
       uiMessage.value  = "Prem el botó per començar...";
       statusColor.value = "primary";
   } 
