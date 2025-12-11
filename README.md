@@ -67,8 +67,8 @@ L'aplicació reconeix les següents comandes en català:
 
 - **"saluda"** - Mostra un missatge de benvinguda
 - **"ajuda"** - Mostra informació d'ajuda
-- **"Tema"** - Canvia entre tema clar i fosc
-- **"Reset"** - Restableix l'estat inicial de la interfície
+- **"tema"** - Canvia entre tema clar i fosc
+- **"esborra"** - Restableix l'estat inicial de la interfície
 
 El reconeixement de veu utilitza l'API Web Speech del navegador configurada per a català (`ca-ES`). 
 
